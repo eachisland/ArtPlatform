@@ -1,0 +1,2 @@
+# ArtPlatform
+Final project
