@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ArtPlatformProject.Data/ArtPlatformProject.Data.csproj" />
+  <Project Path="ArtPlatformProject/ArtPlatformProject.csproj" />
+</Solution>
