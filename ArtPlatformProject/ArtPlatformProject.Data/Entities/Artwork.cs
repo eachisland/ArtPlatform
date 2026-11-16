@@ -24,5 +24,12 @@ namespace ArtPlatformProject.Data.Entities
 
         public int MoodId { get; set; }
         public Mood Mood { get; set; } = null!;
+        public ICollection<Like> Likes { get; set; } = new List<Like>();
+
+        public ICollection<Comment> Comments { get; set; } = new List<Comment>();
+
+        public ICollection<ArtworkView> Views { get; set; } = new List<ArtworkView>();
+
+        public ICollection<ArtworkTag> ArtworkTags { get; set; } = new List<ArtworkTag>();
     }
 }

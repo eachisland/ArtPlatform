@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ArtPlatformProject.Data/ArtPlatformProject.Data.csproj" />
-  <Project Path="ArtPlatformProject/ArtPlatformProject.csproj" />
+  <Project Path="ArtPlatformProject.Services/ArtPlatformProject.Services.csproj" Id="ad8388a8-055e-4615-8c6d-0533e8f5dcb8" />
+  <Project Path="ArtPlatformProject/ArtPlatformProject.Web.csproj" />
 </Solution>
